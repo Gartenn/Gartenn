@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Gartenn
-- 👀 I’m interested
 - 🌱 I’m currently learning github
 
 <!---
