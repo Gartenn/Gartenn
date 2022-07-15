@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gartenn
-- 🌱 I’m currently learning github
+- 🌱 I’m currently learning Building rom
 
 <!---
 Gartenn/Gartenn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
